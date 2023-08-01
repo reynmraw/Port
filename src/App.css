@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
